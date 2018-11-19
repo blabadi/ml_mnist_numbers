@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Dev\\Anaconda3\\envs\\tf-gpu-keras-p35\\python.exe",
+    "python.linting.pylintEnabled": false
+}
